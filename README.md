@@ -3,7 +3,7 @@ I'm a high school student from China.
 
 As to the reason for the name "FlyPlanet",it means the the confusion in my life.Many fly-liked things surround me.
 
-However,fly can also be lively or flexible.
+However,fly can also means lively or flexibility.
 
 So I am still growing.
 
