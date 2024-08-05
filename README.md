@@ -1,9 +1,9 @@
 ### Hi there! 你好啊 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FlyPlanet&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Fuwaki&show_icons=true&theme=dark&count_private=true)
 
 #### 我能做什么？
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyPlanet&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuwaki&theme=dark&layout=compact)
 
 
 ### 关于我自己 About myself
