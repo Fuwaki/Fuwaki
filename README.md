@@ -1,6 +1,6 @@
 ## Hi there! 我是 Fuwaki 🫠
 
-湖科大的大一学生，机器人工程专业💦
+湖科大的大二学生，机器人工程专业💦
 
 I'm currently a freshman in HNUST,major in Robotics Engineering.
 
