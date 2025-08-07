@@ -2,7 +2,7 @@
 
 湖科大的大二学生，机器人工程专业💦
 
-I'm currently a freshman in HNUST,major in Robotics Engineering.
+I'm currently a sophomore in HNUST,major in Robotics Engineering.
 
 喜欢各个领域的有趣的知识，喜欢实践，在向“全栈”靠近，有过`桌面端`、`Web`和`嵌入式`开发经历（并非 乱玩罢了🤓），想学习机器学习、自动控制相关的知识🥵
 
@@ -19,6 +19,7 @@ Seeking epic coding adventures 😎
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
